@@ -1,0 +1,13 @@
+name: crystal_test
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  crystal_test:
+    main: src/crystal_test.cr
+
+crystal: 0.35.1
+
+license: MIT
